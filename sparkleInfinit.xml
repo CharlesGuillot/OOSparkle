@@ -11,8 +11,7 @@
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo. Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc. Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium. Integer auctor sodales leo vel aliquam. Nullam nisi justo, molestie ut volutpat faucibus, convallis vitae dolor. Nam elementum, augue eu auctor imperdiet, ante arcu luctus turpis, quis vulputate est tortor non mauris. Fusce ut viverra ante. Mauris nec ullamcorper ante.
 			</description>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://download.infinit.io/infinit-latest-x86_64.dmg" sparkle:version="1" length="9212770" type="application/octet-stream" sparkle:dsaSignature="MEQCIFM83KTDyyC9KhKl5czwwk3C+uEaHVeVjU5O544G3AT3AiBCT48jKbRoj4f3
-o4kPM6aWdenEsObtYJ2v2VdZB9jp8A==" />
+            <enclosure url="http://download.infinit.io/infinit-latest-x86_64.dmg" sparkle:version="1" length="9212770" type="application/octet-stream" sparkle:dsaSignature="MEQCIFM83KTDyyC9KhKl5czwwk3C+uEaHVeVjU5O544G3AT3AiBCT48jKbRoj4f3o4kPM6aWdenEsObtYJ2v2VdZB9jp8A==" />
          </item>
    </channel>
 </rss>
