@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Infinit (Mac OS X)</title>
-      <link>http://andymatuschak.org/files/sparkletestcast.xml</link>
+      <link>https://raw.github.com/CharlesGuillot/OOSparkle/master/sparkleInfinit.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>      
          <item>
